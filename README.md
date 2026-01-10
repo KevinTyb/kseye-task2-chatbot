@@ -28,4 +28,14 @@ Example intents include:
 - New starter access queries
 - Template letter requests
 
+---
+
+### Prerequisites
+- Node.js (v18+ recommended)
+- npm or pnpm
+
+### Install dependencies
+```bash
+npm install
+
 
