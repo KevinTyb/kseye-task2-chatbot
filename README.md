@@ -28,7 +28,4 @@ Example intents include:
 - New starter access queries
 - Template letter requests
 
----
-
-## Project Structure
 
