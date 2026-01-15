@@ -1,15 +1,16 @@
 {
-    "name": "kseye-task-2-chatbot",
-    "version": "1.0.0",
-    "description": "Simple rule-based CLI chatbot for KSEYE assessment (Task 2)",
-    "private": true,
-    "type": "module",
-    "scripts": {
-        "start": "tsx src/index.ts",
-        "typecheck": "tsc --noEmit"
-    },
-    "devDependencies": {
-        "tsx": "^4.21.0",
-        "typescript": "^5.9.3"
-    }
+  "name": "kseye-task-2-chatbot",
+  "version": "1.0.0",
+  "description": "Simple rule-based CLI chatbot for KSEYE assessment (Task 2)",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "tsx src/index.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/node": "^25.0.8",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  }
 }

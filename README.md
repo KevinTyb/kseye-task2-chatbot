@@ -5,6 +5,7 @@
 This project is a **simple, rule-based internal chatbot** created as part of the KSEYE Junior Software Developer assessment (Task 2 – Option B).
 
 The purpose of this utility is to demonstrate:
+
 - clean, readable, and maintainable code
 - basic intent matching and control flow
 - sensible handling of unknown or ambiguous input
@@ -22,6 +23,7 @@ The chatbot is intentionally **non-AI** and deterministic. This mirrors how a re
 - Handles unknown queries gracefully
 
 Example intents include:
+
 - Requests for lending criteria
 - Pricing matrix guidance
 - Application status queries
@@ -30,11 +32,23 @@ Example intents include:
 
 ---
 
+Note: When using npm, include `--` before the question to forward arguments.
+
+### Examples
+
+npm run start -- "Where can I find the latest lending criteria?"
+npm run start -- "How do I use the pricing matrix?"
+npm run start -- "Update email from minimus@noemail.com to maximus@noemail.co.uk"
+
+---
+
 ### Prerequisites
-- Node.js (v18+ recommended)
+
+- Node.js
 - npm or pnpm
 
 ### Install dependencies
+
 ```bash
 npm install
 ```
