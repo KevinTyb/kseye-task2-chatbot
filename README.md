@@ -1,4 +1,4 @@
-# Task 2 – Simple Rule-Based Chatbot
+# Simple Rule-Based Chatbot
 
 ## Overview
 
