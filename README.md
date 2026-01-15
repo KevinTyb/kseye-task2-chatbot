@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a **simple, rule-based internal chatbot** created as part of the KSEYE Junior Software Developer assessment (Task 2 – Option B).
+This project is a **simple, rule-based internal chatbot**.
 
 The purpose of this utility is to demonstrate:
 
